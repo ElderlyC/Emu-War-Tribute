@@ -1,0 +1,40 @@
+#image{
+    max-width:100%;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #img-caption{
+    text-align:center;
+  }
+  .quote,#img-caption{
+    font-style:italic;
+  }
+  h1{
+    text-align:center;
+  }
+  #date{
+    font-size:17px;
+    margin:7px;
+  }
+  *{
+    background-color:black;
+    color:white;
+    padding:0px;
+  }
+  #tribute-link{
+    color:blue;
+  }
+  #tribute-link:hover{
+    color:white;
+  }
+  #tribute-link:active{
+    color:blue;
+  }
+  footer p{
+    text-align:center;
+    margin:20px;
+    font-size:12px;
+  }
